@@ -53,7 +53,6 @@ namespace StarterAssets
 
 		public void LookInput(Vector2 newLookDirection)
 		{
-			//Debug.Log("Incoming newLookDirection.y: " + newLookDirection.y); // Add this line
 			look = newLookDirection;
 		}
 
